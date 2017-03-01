@@ -22,3 +22,4 @@ tar -xvzf /pathtofile/mediawiki-*.tar.gz
 sudo mkdir /var/lib/mediawiki
 sudo mv mediawiki-*/* /var/lib/mediawiki
 ```
+## [Details helps](https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu)
