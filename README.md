@@ -8,9 +8,9 @@
 #### Install depends 
 ```bash
 ## Terminal lines <br>
-sudo apt-get install apache2 mysql-server php5 php5-mysql libapache2-mod-php5 <br>
+sudo apt-get install apache2 mysql-server php5 php5-mysql libapache2-mod-php5
 ## Ubuntu Xenial and Debian Stretch include PHP 7.0, and renamed many packages from "php5" to plain "php". In addition, some PHP modules are now in separate packages (xml, mbstring)
-sudo apt-get install apache2 mysql-server php php-mysql libapache2-mod-php php-xml php-mbstring <br>
+sudo apt-get install apache2 mysql-server php php-mysql libapache2-mod-php php-xml php-mbstring
 ```
 
 ## Download MediaWiki and extract it
